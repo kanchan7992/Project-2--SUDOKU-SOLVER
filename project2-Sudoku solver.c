@@ -1,9 +1,9 @@
-/*    SUDOKU SOLVER
-*/
+//    SUDOKU SOLVER
 
 #include<stdlib.h>
 #include<stdio.h>
 #define n 9
+
 void print(int a[n][n]) //to print the sudoku
 { int i,j;
 for(i=0;i<n;i++)
