@@ -1,3 +1,5 @@
+# SUDOKU SOLVER 
+
 In this Project, we are given given a partially filled 9×9 2D array ‘grid[9][9]’, the goal is to assign digits (from 1 to 9) to the empty cells so that every row, column, and subgrid of size 3×3 contains unique digits from 1 to 9. 
 
 Basically, I have used backtracking algorithm to solve the sudoku which is a type of brute force search. Backtracking is a depth-first search (in contrast to a breadth-first search), because it will completely explore one branch to a possible solution before moving to another branch. In this way, we can solve the sudoku very easily.
